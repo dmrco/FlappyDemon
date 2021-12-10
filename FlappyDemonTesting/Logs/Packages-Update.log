@@ -1,0 +1,9 @@
+
+=== Tue Dec  7 20:32:49 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 5.0.8 to 5.0.9
+  com.unity.2d.psdimporter from version 4.1.1 to 4.1.2

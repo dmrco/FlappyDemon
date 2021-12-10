@@ -3,7 +3,7 @@ CS4080 Capstone Project - Flappy Demon Game
 ----C# Group Members: Zoë Medina, Johnathan Giang, DeMarco Green, Jordan Frias, Cole Dunga----
 
 ---------------------------------------------IMPORTANT NOTE---------------------------------------------  
-In order to run the game, you must download Unity and open the project files in Unity's launcher.
+In order to run the game, you must download Unity and open the FlappyDemonTesting project files in Unity's launcher.
 
 Additional notes:
 You make your character jump by using the left mouse button.

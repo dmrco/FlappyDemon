@@ -1,6 +1,6 @@
 # FlappyDemon
 CS4080 Capstone Project - Flappy Demon Game
-Group Members: Zoë Medina, Johnathan Giang, DeMarco Green, Jordan Frias, Cole Dunga
+----Group Members: Zoë Medina, Johnathan Giang, DeMarco Green, Jordan Frias, Cole Dunga----
 
 ---------------------------------------------IMPORTANT NOTE---------------------------------------------
 In order to run the game, you must download Unity and open the project files in Unity's launcher.
